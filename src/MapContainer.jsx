@@ -1,4 +1,4 @@
-import '../../styles/map.scss'
+import './map.scss';
 import { GoogleMap, LoadScript, MarkerF } from "@react-google-maps/api";
 
 const MapContainer = () => {
@@ -33,7 +33,3 @@ const MapContainer = () => {
   );
 };
 export default MapContainer;
-
-
-
-

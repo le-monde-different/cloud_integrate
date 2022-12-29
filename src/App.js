@@ -3,7 +3,7 @@ import About from "./Pages/About";
 import { Courses } from "./Pages/Courses";
 import Resources from "./Pages/Resource";
 import { OnlineLearning } from "./Pages/OnlineLearning";
-import {Navbar} from './Pages/Navbar'
+import {Navbar} from './Pages/Navbar';
 import Home from "./Home";
 
 export default function App() {
